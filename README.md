@@ -7,7 +7,6 @@
 </div>
 <br/>
 
-### Design Files
 
 <details>
 <summary>Click to view</summary>
